@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Dependency directories
+/vendor/
